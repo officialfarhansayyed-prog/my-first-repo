@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics & Performance Dashboard
 
 ## Project Overview
-This project delivers an end-to-end data analytics workflow on an E-commerce sales dataset containing 1,200 transaction records. It encompasses data ingestion, automated cleaning, Exploratory Data Analysis (EDA), advanced data visualizations using Python (Pandas, Seaborn, Matplotlib), an interactive Power BI Dashboard, and actionable business strategy recommendations.
+This project delivers an end-to-end data analytics workflow on an E-commerce sales dataset containing 1,200 transaction records. It encompasses data ingestion, automated cleaning, Exploratory Data Analysis (EDA), advanced data visualizations using Python (Pandas, Seaborn, Matplotlib), and an interactive Power BI Dashboard.
 
 ---
 
@@ -46,19 +46,5 @@ The primary goal is to analyze customer transaction behavior, evaluate product p
 
 ---
 
-## Key Insights
-1. **Fulfillment Bottleneck:** 41.42% of orders (497 out of 1,200) ended in **Cancelled** or **Returned** status, causing **$519,673.91 in lost potential revenue**.
-2. **Top Grossing Categories:** Chairs ($195.6K), Printers ($195.6K), and Laptops ($192.1K) generate the largest revenue share.
-3. **Payment Preference:** Credit Card orders yield the highest Average Order Value ($1,127.55).
-4. **Dominant Marketing Channel:** Instagram leads customer acquisition ($275.3K generated), followed by Email ($261.8K).
-
----
-
-## Business Recommendations
-1. **Optimize Post-Checkout Operations:** Implement automated order verification and real-time tracking alerts to mitigate order drop-offs. Reducing cancellations/returns to 20% would recover over **$250,000 in retained revenue**.
-2. **Targeted Acquisition Strategy:** Shift marketing budget toward Instagram and Email campaigns while offering Credit Card incentives for high-ticket electronics.
-
----
-
 ## Conclusion
-By bridging Python-based statistical analysis with Power BI visual analytics, this capstone project pinpoints core operational vulnerabilities and provides actionable, data-backed pathways to maximize retained sales revenue.
+By bridging Python-based statistical analysis with Power BI visual analytics, this capstone project pinpoints core operational vulnerabilities and provides a complete data pipeline to analyze sales revenue and customer transactions.
